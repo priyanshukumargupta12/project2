@@ -1,2 +1,2 @@
 # New Project
-This project was created from local system created by Priyanshu Kumar Gupta
+This project was created from local system created by Priyanshu Kumar Gupta.
